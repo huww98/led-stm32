@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/mnt/c/Documents/STM32CubeMX/led/build",
+            "binaryPath": "/mnt/c/Documents/STM32CubeMX/led/build/led.elf",
+            "binaryArgs": []
+        }
+    ]
+}
